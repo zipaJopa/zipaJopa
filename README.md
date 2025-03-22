@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pavle%20Jovanović&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=white" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pavle%20Bradić&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=white" alt="Header" width="100%" />
   
   <h3>AI Developer & Cloud Architect</h3>
   
