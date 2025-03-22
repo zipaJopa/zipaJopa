@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=250&section=header&text=Pavle%20Jovanović&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=white&desc=AI%20Developer%20%26%20Cloud%20Architect&descAlignY=55&descSize=20" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=250&section=header&text=Pavle%20Bradić&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=white&desc=AI%20Developer%20%26%20Cloud%20Architect&descAlignY=55&descSize=20" alt="Header" width="100%" />
   
   <!-- Animated typing effect -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=AI+Developer;Cloud+Architect;YouTube+Creator;Open+Source+Contributor" alt="Typing SVG" /></a>
