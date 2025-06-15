@@ -1,22 +1,22 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=250&section=header&text=AI%20Paja&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=white&desc=The%20Orchestrator%20of%20Autonomous%20Systems&descAlignY=55&descSize=20" alt="Header" width="100%" />
 
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=Chief+AI+Orchestrator;SOTA%20Tech%20Enthusiast;Open-Source%20Advocate;Building%20the%20Future" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=Chief+AI+Orchestrator;SOTA%20Tech+Enthusiast;Open-Source+Advocate;Building+the+Future" alt="Typing SVG" /></a>
 
     <p>
-        <a href="https://www.youtube.com/@aipaja">
+        <a href="https://www.youtube.com/@AIPaja" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/YouTube-AI%20Paja-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
         </a>
-        <a href="mailto:your-email@example.com">
+        <a href="mailto:bradic.pavle@yourbow.com">
             <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
         </a>
-        <a href="https://github.com/zipajopa">
+        <a href="https://github.com/zipajopa" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/GitHub-Follow-success?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
         </a>
-        <a href="https://www.linkedin.com/in/bradic/">
+        <a href="https://www.linkedin.com/in/bradic/" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
-        <a href="https://twitter.com/zipajopa">
+        <a href="https://twitter.com/zipajopa" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
         </a>
     </p>
@@ -34,7 +34,7 @@
 </div>
 
 <p align="center">
-    <a href="https://www.youtube.com/@aipaja"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=800&height=45&lines=Building+autonomous+LLM-powered+systems+for+personal+and+professional+optimization;Exploring+the+intersection+of+AI,+FOSS,+and+cloud-native+technologies;Sharing+insights+and+projects+on+the+AI+Paja+YouTube+channel" alt="About Me Typing" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=800&height=45&lines=Building+autonomous+LLM-powered+systems+for+personal+and+professional+optimization;Exploring+the+intersection+of+AI,+FOSS,+and+cloud-native+technologies;Sharing+insights+and+projects+on+the+AI+Paja+YouTube+channel;Aspiring+Chief+AI+Officer+at+YourBow+AdOps" alt="About Me Typing" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/183874578-698a09c3-a761-496e-9431-784624e955fe.gif" width="100%" alt="Animated Divider">
@@ -96,13 +96,13 @@
 </div>
 
 <div align="center">
-    <a href="https://github.com/zipajopa/your-first-project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zipajopa&repo=your-first-project&theme=radical&bg_color=0D1117&border_color=8A2BE2&hide_border=false" alt="Project 1" />
+    <a href="https://github.com/zipajopa/Google-Ad-Manager-AI-Agent" target="_blank" rel="noopener noreferrer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zipajopa&repo=Google-Ad-Manager-AI-Agent&theme=radical&bg_color=0D1117&border_color=A020F0&hide_border=false" alt="Google Ad Manager AI Agent" />
     </a>
-    <a href="https://github.com/zipajopa/your-second-project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zipajopa&repo=your-second-project&theme=radical&bg_color=0D1117&border_color=8A2BE2&hide_border=false" alt="Project 2" />
+    <a href="https://github.com/zipajopa/yourbow-monitoring-dashboard" target="_blank" rel="noopener noreferrer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zipajopa&repo=yourbow-monitoring-dashboard&theme=radical&bg_color=0D1117&border_color=A020F0&hide_border=false" alt="YourBow Monitoring Dashboard" />
     </a>
-    </div>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/183874578-698a09c3-a761-496e-9431-784624e955fe.gif" width="100%" alt="Animated Divider">
 
@@ -114,20 +114,20 @@
 </div>
 
 <div align="center">
-    <a href="https://github.com/zipajopa">
+    <a href="https://github.com/zipajopa" target="_blank" rel="noopener noreferrer">
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zipajopa&show_icons=true&count_private=true&hide=issues&theme=radical&bg_color=0D1117&hide_border=false&border_color=A020F0&title_color=FFFFFF&text_color=FFFFFF" alt="GitHub Stats" />
     </a>
 
-    <a href="https://github.com/zipajopa">
+    <a href="https://github.com/zipajopa" target="_blank" rel="noopener noreferrer">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=zipajopa&theme=radical&background=0D1117&border=A020F0&stroke=A020F0&ring=FF69B4&fire=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF69B4&sideLabels=FF69B4" alt="GitHub Streak" />
     </a>
 
-    <a href="https://github.com/zipajopa">
+    <a href="https://github.com/zipajopa" target="_blank" rel="noopener noreferrer">
         <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zipajopa&layout=compact&theme=radical&bg_color=0D1117&hide_border=false&border_color=A020F0&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages" />
     </a>
 </div>
 
-<a href="https://github.com/zipajopa">
+<a href="https://github.com/zipajopa" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=zipajopa&theme=rogue&bg_color=0D1117&color=FFFFFF&line=A020F0&point=FF69B4&area=true&hide_border=false" width="100%" alt="Contribution Graph" />
 </a>
 
@@ -148,7 +148,7 @@
 
 <div align="center">
     <h2>
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVlcWVlcWVlcWVlcWVlcWVlcWVlcWVlcWVlcWVlcWVlcWVlcWVlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="40" alt="Recent Activity">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVlcWVlcWVlcWVlcWVlcWVlcWVlcWVlcWVlcWVlcWVlcWVlcWVlcSZlcD12MV9pbnRlcm5ubmFsfGZpZl9ieV9pZCZjdD1z/LMt9638dO8dftAjtco/giphy.gif" width="40" alt="Recent Activity">
         Recent Activity
     </h2>
 </div>
@@ -167,16 +167,15 @@
 </div>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/bradic/">
+    <a href="https://www.linkedin.com/in/bradic/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://x.com/zipajopa">
+    <a href="https://twitter.com/zipajopa" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
     </a>
-    <a href="https://www.youtube.com/@aipaja">
+    <a href="https://www.youtube.com/@AIPaja" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
     </a>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:A020F0&height=150&section=footer&animation=fadeIn" width="100%" alt="Footer" />
