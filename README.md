@@ -12,6 +12,9 @@
  ╚═╝     ╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝ ╚═════╝
 ```
 
+<!-- Pulsing AI Brain Animation -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="80" style="animation: pulse 2s infinite;"/>
+
 <a href="https://github.com/zipajopa">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=%E2%9C%A8+my+agents+work+while+i+sleep;%F0%9F%94%A5+turning+coffee+into+autonomous+systems;%F0%9F%9A%80+belgrade+%E2%86%92+world+domination" alt="Typing"/>
 </a>
@@ -88,6 +91,29 @@ drwxr-xr-x  infra/       # docker, vercel, cloudflare, fly.io (free tier gang �
 
 ---
 
+### 🔥 `$ cat ~/currently-learning.md`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🧠_pydantic--ai-mastering-A855F7?style=for-the-badge" alt="pydantic-ai"/>
+<img src="https://img.shields.io/badge/🔗_MCP-building-EC4899?style=for-the-badge" alt="MCP"/>
+<img src="https://img.shields.io/badge/🤖_LangGraph-exploring-FBBF24?style=for-the-badge" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/⚡_Convex-integrating-00D4FF?style=for-the-badge" alt="Convex"/>
+
+<br/><br/>
+
+```
+📚 Learning Queue (auto-updated by my AI)
+├── [████████░░] pydantic-ai — 80% (building production agents)
+├── [██████░░░░] MCP ecosystem — 60% (composable tools)
+├── [████░░░░░░] LangGraph — 40% (workflow orchestration)
+└── [██░░░░░░░░] Rust basics — 20% (when Python isn't fast enough)
+```
+
+</div>
+
+---
+
 ### `$ cat ~/missions.md`
 
 ```markdown
@@ -98,6 +124,24 @@ drwxr-xr-x  infra/       # docker, vercel, cloudflare, fly.io (free tier gang �
 - [🔧] MCP Ecosystem — modular AI tools that compose like LEGO
 - [💸] Free-Tier Exploitation Research — because cloud bills are for mortals
 ```
+
+---
+
+### 📂 `$ ls ~/pinned-repos/`
+
+<div align="center">
+
+<a href="https://github.com/zipajopa/zipajopa">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=zipajopa&repo=zipajopa&theme=transparent&bg_color=00000000&hide_border=true&title_color=A855F7&text_color=e6e6e6&icon_color=EC4899" alt="Profile README"/>
+</a>
+
+<!-- Add more pinned repos here as you create them:
+<a href="https://github.com/zipajopa/REPO_NAME">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=zipajopa&repo=REPO_NAME&theme=transparent&bg_color=00000000&hide_border=true&title_color=A855F7&text_color=e6e6e6&icon_color=EC4899"/>
+</a>
+-->
+
+</div>
 
 ---
 
@@ -136,6 +180,32 @@ drwxr-xr-x  infra/       # docker, vercel, cloudflare, fly.io (free tier gang �
 
 ---
 
+### 💬 `$ cat ~/guestbook.md`
+
+<div align="center">
+
+<!--
+  🚀 GISCUS COMMENTS - Setup Instructions:
+  
+  1. Go to https://giscus.app
+  2. Enter your repo: zipajopa/zipajopa  
+  3. Enable "Discussions" in repo settings first
+  4. Choose "Announcements" category
+  5. Copy the generated script and replace this placeholder
+  
+  Once setup, visitors can leave comments on your profile!
+-->
+
+[![Giscus](https://img.shields.io/badge/💬_Leave_a_comment-via_Giscus-A855F7?style=for-the-badge)](https://github.com/zipajopa/zipajopa/discussions)
+
+<sub>
+  <em>Click above to visit discussions, or set up <a href="https://giscus.app">Giscus</a> for embedded comments!</em>
+</sub>
+
+</div>
+
+---
+
 <div align="center">
 
 ```
@@ -147,9 +217,15 @@ drwxr-xr-x  infra/       # docker, vercel, cloudflare, fly.io (free tier gang �
 
 <br/>
 
+<!-- Animated Hire Me Badge -->
 <a href="mailto:boss@paja.pro">
   <img src="https://img.shields.io/badge/hire_me-or_just_say_hi-A855F7?style=for-the-badge"/>
 </a>
+
+<br/><br/>
+
+<!-- Animated Wave Hand -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="50"/>
 
 </div>
 
