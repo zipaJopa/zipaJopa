@@ -12,23 +12,24 @@
  ╚═╝     ╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝ ╚═════╝
 ```
 
-<!-- Pulsing AI Brain Animation -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="80" style="animation: pulse 2s infinite;"/>
+<!-- Animated Robot (non-clickable) -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="80"/>
 
-<a href="https://github.com/zipajopa">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=%E2%9C%A8+my+agents+work+while+i+sleep;%F0%9F%94%A5+turning+coffee+into+autonomous+systems;%F0%9F%9A%80+belgrade+%E2%86%92+world+domination" alt="Typing"/>
-</a>
+<!-- Typing Animation (non-clickable) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=%E2%9C%A8+my+agents+work+while+i+sleep;%F0%9F%94%A5+turning+coffee+into+autonomous+systems;%F0%9F%9A%80+belgrade+%E2%86%92+world+domination" alt="Typing"/>
 
 <br/><br/>
 
-[![Email](https://img.shields.io/badge/boss@paja.pro-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boss@paja.pro)
-[![LinkedIn](https://img.shields.io/badge/bradic-EC4899?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bradic)
-[![X](https://img.shields.io/badge/@zipajopa-A855F7?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zipajopa)
-[![Web](https://img.shields.io/badge/paja.pro-FBBF24?style=for-the-badge&logo=safari&logoColor=black)](https://paja.pro)
+<!-- Contact Badges (these ARE clickable - intentional) -->
+<a href="mailto:boss@paja.pro" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/boss@paja.pro-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://linkedin.com/in/bradic" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/bradic-EC4899?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/zipajopa" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/@zipajopa-A855F7?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://paja.pro" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/paja.pro-FBBF24?style=for-the-badge&logo=safari&logoColor=black" alt="Web"/></a>
 
 <br/>
 
-![Views](https://komarev.com/ghpvc/?username=zipajopa&color=A855F7&style=flat-square&label=stalkers)
+<!-- Views Counter (non-clickable) -->
+<img src="https://komarev.com/ghpvc/?username=zipajopa&color=A855F7&style=flat-square&label=stalkers" alt="Views"/>
 
 </div>
 
@@ -76,6 +77,7 @@ class Pavle:
 
 <div align="center">
 
+<!-- Tech icons (non-clickable) -->
 <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,react,ts,tailwind&theme=dark" alt="Main"/>
 <br/>
 <img src="https://skillicons.dev/icons?i=supabase,postgres,redis,docker,vercel,cloudflare&theme=dark" alt="Infra"/>
@@ -95,6 +97,7 @@ drwxr-xr-x  infra/       # docker, vercel, cloudflare, fly.io (free tier gang �
 
 <div align="center">
 
+<!-- Learning badges (non-clickable) -->
 <img src="https://img.shields.io/badge/🧠_pydantic--ai-mastering-A855F7?style=for-the-badge" alt="pydantic-ai"/>
 <img src="https://img.shields.io/badge/🔗_MCP-building-EC4899?style=for-the-badge" alt="MCP"/>
 <img src="https://img.shields.io/badge/🤖_LangGraph-exploring-FBBF24?style=for-the-badge" alt="LangGraph"/>
@@ -131,15 +134,12 @@ drwxr-xr-x  infra/       # docker, vercel, cloudflare, fly.io (free tier gang �
 
 <div align="center">
 
-<a href="https://github.com/zipajopa/zipajopa">
+<!-- Pinned repo card (intentionally clickable - goes to repo) -->
+<a href="https://github.com/zipajopa/zipajopa" target="_blank" rel="noopener noreferrer">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=zipajopa&repo=zipajopa&theme=transparent&bg_color=00000000&hide_border=true&title_color=A855F7&text_color=e6e6e6&icon_color=EC4899" alt="Profile README"/>
 </a>
 
-<!-- Add more pinned repos here as you create them:
-<a href="https://github.com/zipajopa/REPO_NAME">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=zipajopa&repo=REPO_NAME&theme=transparent&bg_color=00000000&hide_border=true&title_color=A855F7&text_color=e6e6e6&icon_color=EC4899"/>
-</a>
--->
+<!-- Add more pinned repos here as you create them -->
 
 </div>
 
@@ -149,13 +149,13 @@ drwxr-xr-x  infra/       # docker, vercel, cloudflare, fly.io (free tier gang �
 
 <div align="center">
 
-<a href="https://github.com/zipajopa">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zipajopa&show_icons=true&count_private=true&theme=transparent&bg_color=00000000&hide_border=true&title_color=A855F7&text_color=e6e6e6&icon_color=EC4899"/>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zipajopa&layout=compact&theme=transparent&bg_color=00000000&hide_border=true&title_color=A855F7&text_color=e6e6e6"/>
-</a>
+<!-- Stats cards (non-clickable) -->
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zipajopa&show_icons=true&count_private=true&theme=transparent&bg_color=00000000&hide_border=true&title_color=A855F7&text_color=e6e6e6&icon_color=EC4899" alt="Stats"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zipajopa&layout=compact&theme=transparent&bg_color=00000000&hide_border=true&title_color=A855F7&text_color=e6e6e6" alt="Languages"/>
 
 <br/><br/>
 
+<!-- Activity graph (non-clickable) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zipajopa&theme=react-dark&bg_color=00000000&hide_border=true&line=A855F7&point=EC4899&area=true&area_color=A855F740" alt="Activity" width="95%"/>
 
 </div>
@@ -165,16 +165,18 @@ drwxr-xr-x  infra/       # docker, vercel, cloudflare, fly.io (free tier gang �
 ### `$ cat /etc/trophies`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zipajopa&theme=discord&no-bg=true&no-frame=true&column=7&margin-w=10"/>
+  <!-- Trophies (non-clickable) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=zipajopa&theme=discord&no-bg=true&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
 </div>
 
 ---
 
 <div align="center">
+  <!-- Snake animation (non-clickable) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zipajopa/zipajopa/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zipajopa/zipajopa/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake" src="https://raw.githubusercontent.com/zipajopa/zipajopa/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/zipajopa/zipajopa/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   </picture>
 </div>
 
@@ -196,10 +198,13 @@ drwxr-xr-x  infra/       # docker, vercel, cloudflare, fly.io (free tier gang �
   Once setup, visitors can leave comments on your profile!
 -->
 
-[![Giscus](https://img.shields.io/badge/💬_Leave_a_comment-via_Giscus-A855F7?style=for-the-badge)](https://github.com/zipajopa/zipajopa/discussions)
+<!-- Giscus button (intentionally clickable) -->
+<a href="https://github.com/zipajopa/zipajopa/discussions" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/💬_Leave_a_comment-via_Giscus-A855F7?style=for-the-badge" alt="Giscus"/>
+</a>
 
 <sub>
-  <em>Click above to visit discussions, or set up <a href="https://giscus.app">Giscus</a> for embedded comments!</em>
+  <em>Click above to visit discussions, or set up <a href="https://giscus.app" target="_blank" rel="noopener noreferrer">Giscus</a> for embedded comments!</em>
 </sub>
 
 </div>
@@ -217,18 +222,19 @@ drwxr-xr-x  infra/       # docker, vercel, cloudflare, fly.io (free tier gang �
 
 <br/>
 
-<!-- Animated Hire Me Badge -->
+<!-- Hire me button (intentionally clickable) -->
 <a href="mailto:boss@paja.pro">
-  <img src="https://img.shields.io/badge/hire_me-or_just_say_hi-A855F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/hire_me-or_just_say_hi-A855F7?style=for-the-badge" alt="Hire Me"/>
 </a>
 
 <br/><br/>
 
-<!-- Animated Wave Hand -->
+<!-- Wave hand (non-clickable) -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="50"/>
 
 </div>
 
+<!-- Footer wave (non-clickable) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBBF24,30:EC4899,70:A855F7,100:0D0D0D&height=120&section=footer" width="100%"/>
 
 <!-- 
