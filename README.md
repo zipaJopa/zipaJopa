@@ -107,7 +107,7 @@ drwxr-xr-x  infra/       # docker, vercel, cloudflare, fly.io (free tier gang ðŸ
 
 <a href="https://github.com/zipajopa">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zipajopa&show_icons=true&count_private=true&theme=transparent&bg_color=00000000&hide_border=true&title_color=A855F7&text_color=e6e6e6&icon_color=EC4899"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=zipajopa&theme=transparent&background=00000000&hide_border=true&ring=A855F7&fire=EC4899&currStreakNum=e6e6e6&sideNums=e6e6e6&currStreakLabel=A855F7&sideLabels=EC4899&dates=888888"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=zipajopa&theme=transparent&background=00000000&hide_border=true&ring=A855F7&fire=EC4899&currStreakNum=e6e6e6&sideNums=e6e6e6&currStreakLabel=A855F7&sideLabels=EC4899&dates=888888"/>
 </a>
 
 <br/><br/>
