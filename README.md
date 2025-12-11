@@ -1,5 +1,5 @@
 <!-- Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,30:A855F7,70:EC4899,100:FBBF24&height=150&section=header" width="100%"/>
+<picture><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,30:A855F7,70:EC4899,100:FBBF24&height=150&section=header" width="100%"/></picture>
 
 <div align="center">
 
@@ -14,10 +14,11 @@
 
 🤖
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=%E2%9C%A8+my+agents+work+while+i+sleep;%F0%9F%94%A5+turning+coffee+into+autonomous+systems;%F0%9F%9A%80+belgrade+%E2%86%92+world+domination" alt="Typing"/>
+<picture><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=%E2%9C%A8+my+agents+work+while+i+sleep;%F0%9F%94%A5+turning+coffee+into+autonomous+systems;%F0%9F%9A%80+belgrade+%E2%86%92+world+domination" alt="Typing"/></picture>
 
 <br/><br/>
 
+<!-- Contact badges - intentionally clickable -->
 <a href="mailto:boss@paja.pro"><img src="https://img.shields.io/badge/boss@paja.pro-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://linkedin.com/in/bradic"><img src="https://img.shields.io/badge/bradic-EC4899?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://x.com/zipajopa"><img src="https://img.shields.io/badge/@zipajopa-A855F7?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
@@ -25,7 +26,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=zipajopa&color=A855F7&style=flat-square&label=stalkers" alt="Views"/>
+<picture><img src="https://komarev.com/ghpvc/?username=zipajopa&color=A855F7&style=flat-square&label=stalkers" alt="Views"/></picture>
 
 </div>
 
@@ -73,9 +74,9 @@ class Pavle:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,react,ts,tailwind&theme=dark" alt="Main"/>
+<picture><img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,react,ts,tailwind&theme=dark" alt="Main"/></picture>
 <br/>
-<img src="https://skillicons.dev/icons?i=supabase,postgres,redis,docker,vercel,cloudflare&theme=dark" alt="Infra"/>
+<picture><img src="https://skillicons.dev/icons?i=supabase,postgres,redis,docker,vercel,cloudflare&theme=dark" alt="Infra"/></picture>
 
 </div>
 
@@ -92,10 +93,10 @@ drwxr-xr-x  infra/       # docker, vercel, cloudflare, fly.io (free tier gang �
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🧠_pydantic--ai-mastering-A855F7?style=for-the-badge" alt="pydantic-ai"/>
-<img src="https://img.shields.io/badge/🔗_MCP-building-EC4899?style=for-the-badge" alt="MCP"/>
-<img src="https://img.shields.io/badge/🤖_LangGraph-exploring-FBBF24?style=for-the-badge" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/⚡_Convex-integrating-00D4FF?style=for-the-badge" alt="Convex"/>
+<picture><img src="https://img.shields.io/badge/🧠_pydantic--ai-mastering-A855F7?style=for-the-badge" alt="pydantic-ai"/></picture>
+<picture><img src="https://img.shields.io/badge/🔗_MCP-building-EC4899?style=for-the-badge" alt="MCP"/></picture>
+<picture><img src="https://img.shields.io/badge/🤖_LangGraph-exploring-FBBF24?style=for-the-badge" alt="LangGraph"/></picture>
+<picture><img src="https://img.shields.io/badge/⚡_Convex-integrating-00D4FF?style=for-the-badge" alt="Convex"/></picture>
 
 <br/><br/>
 
@@ -128,6 +129,7 @@ drwxr-xr-x  infra/       # docker, vercel, cloudflare, fly.io (free tier gang �
 
 <div align="center">
 
+<!-- Pinned repo - intentionally clickable -->
 <a href="https://github.com/zipajopa/zipajopa">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=zipajopa&repo=zipajopa&theme=transparent&bg_color=00000000&hide_border=true&title_color=A855F7&text_color=e6e6e6&icon_color=EC4899" alt="Profile README"/>
 </a>
@@ -140,12 +142,12 @@ drwxr-xr-x  infra/       # docker, vercel, cloudflare, fly.io (free tier gang �
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zipajopa&show_icons=true&count_private=true&theme=transparent&bg_color=00000000&hide_border=true&title_color=A855F7&text_color=e6e6e6&icon_color=EC4899" alt="Stats"/>
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zipajopa&layout=compact&theme=transparent&bg_color=00000000&hide_border=true&title_color=A855F7&text_color=e6e6e6" alt="Languages"/>
+<picture><img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zipajopa&show_icons=true&count_private=true&theme=transparent&bg_color=00000000&hide_border=true&title_color=A855F7&text_color=e6e6e6&icon_color=EC4899" alt="Stats"/></picture>
+<picture><img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zipajopa&layout=compact&theme=transparent&bg_color=00000000&hide_border=true&title_color=A855F7&text_color=e6e6e6" alt="Languages"/></picture>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zipajopa&theme=react-dark&bg_color=00000000&hide_border=true&line=A855F7&point=EC4899&area=true&area_color=A855F740" alt="Activity" width="95%"/>
+<picture><img src="https://github-readme-activity-graph.vercel.app/graph?username=zipajopa&theme=react-dark&bg_color=00000000&hide_border=true&line=A855F7&point=EC4899&area=true&area_color=A855F740" alt="Activity" width="95%"/></picture>
 
 </div>
 
@@ -154,7 +156,7 @@ drwxr-xr-x  infra/       # docker, vercel, cloudflare, fly.io (free tier gang �
 ### `$ cat /etc/trophies`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zipajopa&theme=discord&no-bg=true&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
+  <picture><img src="https://github-profile-trophy.vercel.app/?username=zipajopa&theme=discord&no-bg=true&no-frame=true&column=7&margin-w=10" alt="Trophies"/></picture>
 </div>
 
 ---
@@ -173,6 +175,7 @@ drwxr-xr-x  infra/       # docker, vercel, cloudflare, fly.io (free tier gang �
 
 <div align="center">
 
+<!-- Giscus - intentionally clickable -->
 <a href="https://github.com/zipajopa/zipajopa/discussions">
   <img src="https://img.shields.io/badge/💬_Leave_a_comment-via_Giscus-A855F7?style=for-the-badge" alt="Giscus"/>
 </a>
@@ -196,6 +199,7 @@ drwxr-xr-x  infra/       # docker, vercel, cloudflare, fly.io (free tier gang �
 
 <br/>
 
+<!-- Hire me - intentionally clickable -->
 <a href="mailto:boss@paja.pro">
   <img src="https://img.shields.io/badge/hire_me-or_just_say_hi-A855F7?style=for-the-badge" alt="Hire Me"/>
 </a>
@@ -206,7 +210,7 @@ drwxr-xr-x  infra/       # docker, vercel, cloudflare, fly.io (free tier gang �
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBBF24,30:EC4899,70:A855F7,100:0D0D0D&height=120&section=footer" width="100%"/>
+<picture><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBBF24,30:EC4899,70:A855F7,100:0D0D0D&height=120&section=footer" width="100%"/></picture>
 
 <!-- 
     ┌─────────────────────────────────────────────────────────────────┐
