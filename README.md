@@ -1,147 +1,169 @@
-```
-                                                                                    
-    ██████╗  █████╗ ██╗   ██╗██╗     ███████╗    ██████╗ ██████╗  █████╗ ██████╗ ██╗ ██████╗
-    ██╔══██╗██╔══██╗██║   ██║██║     ██╔════╝    ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║██╔════╝
-    ██████╔╝███████║██║   ██║██║     █████╗      ██████╔╝██████╔╝███████║██║  ██║██║██║     
-    ██╔═══╝ ██╔══██║╚██╗ ██╔╝██║     ██╔══╝      ██╔══██╗██╔══██╗██╔══██║██║  ██║██║██║     
-    ██║     ██║  ██║ ╚████╔╝ ███████╗███████╗    ██████╔╝██║  ██║██║  ██║██████╔╝██║╚██████╗
-    ╚═╝     ╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝ ╚═════╝
-                                                                                    
-```
+<!-- Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,30:A855F7,70:EC4899,100:FBBF24&height=150&section=header" width="100%"/>
 
 <div align="center">
-  
-  <!-- Typing subtitle -->
-  <a href="https://github.com/zipajopa">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=chief+ai+orchestrator+%7C+belgrade+%E2%86%92+world;my+agents+work+while+i+sleep;turning+coffee+into+autonomous+systems" alt="Typing"/>
-  </a>
 
-  <br/><br/>
+```
+ ██████╗  █████╗ ██╗   ██╗██╗     ███████╗    ██████╗ ██████╗  █████╗ ██████╗ ██╗ ██████╗
+ ██╔══██╗██╔══██╗██║   ██║██║     ██╔════╝    ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║██╔════╝
+ ██████╔╝███████║██║   ██║██║     █████╗      ██████╔╝██████╔╝███████║██║  ██║██║██║     
+ ██╔═══╝ ██╔══██║╚██╗ ██╔╝██║     ██╔══╝      ██╔══██╗██╔══██╗██╔══██║██║  ██║██║██║     
+ ██║     ██║  ██║ ╚████╔╝ ███████╗███████╗    ██████╔╝██║  ██║██║  ██║██████╔╝██║╚██████╗
+ ╚═╝     ╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝ ╚═════╝
+```
 
-  <!-- Minimal badges -->
-  [![Email](https://img.shields.io/badge/boss@paja.pro-333?style=flat-square&logo=gmail&logoColor=white)](mailto:boss@paja.pro)
-  [![LinkedIn](https://img.shields.io/badge/bradic-333?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bradic)
-  [![X](https://img.shields.io/badge/@zipajopa-333?style=flat-square&logo=x&logoColor=white)](https://x.com/zipajopa)
-  [![Web](https://img.shields.io/badge/paja.pro-333?style=flat-square&logo=safari&logoColor=white)](https://paja.pro)
-  
+<a href="https://github.com/zipajopa">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=%E2%9C%A8+my+agents+work+while+i+sleep;%F0%9F%94%A5+turning+coffee+into+autonomous+systems;%F0%9F%9A%80+belgrade+%E2%86%92+world+domination" alt="Typing"/>
+</a>
+
+<br/><br/>
+
+[![Email](https://img.shields.io/badge/boss@paja.pro-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boss@paja.pro)
+[![LinkedIn](https://img.shields.io/badge/bradic-EC4899?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bradic)
+[![X](https://img.shields.io/badge/@zipajopa-A855F7?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zipajopa)
+[![Web](https://img.shields.io/badge/paja.pro-FBBF24?style=for-the-badge&logo=safari&logoColor=black)](https://paja.pro)
+
+<br/>
+
+![Views](https://komarev.com/ghpvc/?username=zipajopa&color=A855F7&style=flat-square&label=stalkers)
+
 </div>
 
 ---
 
-```bash
-$ neofetch --pavle
-```
+### `$ neofetch --pavle`
 
-```
-                    pavle@world
-    ⣿⣿⣿⣿⣿⣿⣿⣿     -----------------
-    ⣿⣿⣿⣿⣿⣿⣿⣿     OS: macOS (M4 Air) / Linux when feeling frisky
-    ⣿⣿⣿⣿⣿⣿⣿⣿     Role: Senior AdOps @ YourBow
-    ⣿⣿⣿⣿⣿⣿⣿⣿     Side Quest: Chief AI Orchestrator (self-appointed)
-    ⣿⣿⣿⣿⣿⣿⣿⣿     Location: Belgrade, Serbia (digital nomad 2025)
-    ⣿⣿⣿⣿⣿⣿⣿⣿     Shell: zsh + agents that do my bidding
-    ⣿⣿⣿⣿⣿⣿⣿⣿     Uptime: since '91
-                         Coffee: critical dependency
+```ruby
+                    ⣿⣿⣿⣿⣿⣿⣿      pavle@earth
+                    ⣿⣿⣿⣿⣿⣿⣿      ──────────────────────────────────
+                    ⣿⣿⣿⣿⣿⣿⣿      os       macOS Sequoia (M4 Air 16GB)
+                    ⣿⣿⣿⣿⣿⣿⣿      role     Senior AdOps @ YourBow
+                    ⣿⣿⣿⣿⣿⣿⣿      title    Chief AI Orchestrator (self-appointed)
+                    ⣿⣿⣿⣿⣿⣿⣿      shell    zsh + army of AI agents
+                    ⣿⣿⣿⣿⣿⣿⣿      location Belgrade → digital nomad 2025
+                                       uptime   since '91
+                                       coffee   ████████████████ 100% (critical)
 ```
 
 ---
 
-### `$ cat ~/what-i-do`
+### `$ cat ~/about.py`
 
 ```python
-class PavleBradic:
+class Pavle:
     def __init__(self):
-        self.day_job = "Senior AdOps Manager"
-        self.obsession = "Building AI agents that automate everything"
-        self.philosophy = "Good architecture > big budgets"
-        self.current_status = "Convincing CEO that AI won't take our jobs"
+        self.role = "Senior AdOps Manager by day"
+        self.obsession = "AI Agent Architect by night"
+        self.philosophy = "Good architecture beats big budgets"
+        self.superpower = "Exploiting free tiers like they owe me money"
     
-    def work(self):
-        while self.coffee > 0:
-            self.build_agents()
-            self.exploit_free_tiers()
+    def daily_routine(self):
+        while self.coffee.level > 0:
+            self.build_autonomous_agents()
+            self.convince_ceo_ai_wont_replace_us()  # narrator: it will
             self.push_to_prod()  # on fridays, obviously
+            
+    def contact(self):
+        return "boss@paja.pro"  # yes, really
 ```
 
 ---
 
-### `$ ls ~/arsenal`
+### `$ ls -la ~/arsenal/`
 
-```
-drwxr-xr-x  ai-agents/       # pydantic-ai, langgraph, mcp, gemini, openai
-drwxr-xr-x  backend/         # fastapi, python, postgresql, redis, convex
-drwxr-xr-x  frontend/        # next.js 15, react, typescript, tailwind, shadcn
-drwxr-xr-x  infra/           # docker, vercel, cloudflare, fly.io (free tier gang)
-drwxr-xr-x  misc/            # linux, zsh, git, obsidian, probably vim one day
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,react,ts,tailwind&theme=dark" alt="Main"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=supabase,postgres,redis,docker,vercel,cloudflare&theme=dark" alt="Infra"/>
+
+</div>
+
+```bash
+drwxr-xr-x  ai/          # pydantic-ai, langgraph, mcp, gemini, openai, claude
+drwxr-xr-x  backend/     # fastapi, convex, postgresql, redis  
+drwxr-xr-x  frontend/    # next.js 15, react, typescript, tailwind, shadcn
+drwxr-xr-x  infra/       # docker, vercel, cloudflare, fly.io (free tier gang 💸)
 ```
 
 ---
 
-### `$ cat ~/current-missions.md`
+### `$ cat ~/missions.md`
 
 ```markdown
-- [ ] 🤖 Life OS Agent Constellation — personal AI that manages tasks/emails/life
-- [ ] 📊 Auto-AdOps Dashboard — real-time monitoring + anomaly detection
-- [ ] 🔗 MCP Ecosystem — modular AI tools that compose like LEGO
-- [ ] 💸 Free-Tier Exploiter Club — because cloud bills are for mortals
+## Currently Obsessing Over
+
+- [🔥] Life OS Agent Constellation — AI that manages my tasks, emails, and sanity
+- [🔥] Auto-AdOps Dashboard — real-time monitoring with anomaly detection  
+- [🔧] MCP Ecosystem — modular AI tools that compose like LEGO
+- [💸] Free-Tier Exploitation Research — because cloud bills are for mortals
 ```
 
 ---
 
-### `$ github stats --format=pretty`
+### `$ git log --oneline --author=pavle`
 
 <div align="center">
-  <a href="https://github.com/zipajopa">
-    <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zipajopa&show_icons=true&count_private=true&theme=transparent&bg_color=00000000&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e" alt="Stats"/>
-    <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=zipajopa&theme=transparent&background=00000000&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681" alt="Streak"/>
-  </a>
-</div>
 
-<div align="center">
-  <a href="https://github.com/zipajopa">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zipajopa&theme=github-compact&bg_color=00000000&hide_border=true&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff" alt="Activity" width="95%"/>
-  </a>
+<a href="https://github.com/zipajopa">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zipajopa&show_icons=true&count_private=true&theme=transparent&bg_color=00000000&hide_border=true&title_color=A855F7&text_color=e6e6e6&icon_color=EC4899"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=zipajopa&theme=transparent&background=00000000&hide_border=true&ring=A855F7&fire=EC4899&currStreakNum=e6e6e6&sideNums=e6e6e6&currStreakLabel=A855F7&sideLabels=EC4899&dates=888888"/>
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zipajopa&theme=react-dark&bg_color=00000000&hide_border=true&line=A855F7&point=EC4899&area=true&area_color=A855F740" alt="Activity" width="95%"/>
+
 </div>
 
 ---
 
-### `$ cat ~/achievements`
+### `$ cat /etc/trophies`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zipajopa&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zipajopa&theme=discord&no-bg=true&no-frame=true&column=7&margin-w=10"/>
 </div>
 
 ---
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zipajopa/zipajopa/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zipajopa/zipajopa/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake" src="https://raw.githubusercontent.com/zipajopa/zipajopa/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zipajopa/zipajopa/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zipajopa/zipajopa/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake" src="https://raw.githubusercontent.com/zipajopa/zipajopa/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   </picture>
 </div>
 
 ---
 
 <div align="center">
+
+```
+ "First, solve the problem. Then, write the code. 
+  Then, let AI rewrite it better."
   
-  ```
-  "First, solve the problem. Then, write the code. Then, let AI rewrite it better."
-  ```
-  
-  <br/>
-  
-  ![Views](https://komarev.com/ghpvc/?username=zipajopa&color=333&style=flat-square&label=profile+views)
-  
+                    — me, probably
+```
+
+<br/>
+
+<a href="mailto:boss@paja.pro">
+  <img src="https://img.shields.io/badge/hire_me-or_just_say_hi-A855F7?style=for-the-badge"/>
+</a>
+
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBBF24,30:EC4899,70:A855F7,100:0D0D0D&height=120&section=footer" width="100%"/>
+
 <!-- 
-    Easter egg: You found me! 🥚
-    
-    If you're reading this source code, you're either:
-    a) A recruiter who actually reads code (respect++)
-    b) Another dev who appreciates clean READMEs
-    c) An AI scraping GitHub profiles (hello, future overlord)
-    
-    Either way: boss@paja.pro
+    ┌─────────────────────────────────────────────────────────────────┐
+    │  Easter egg: You found the source! 🥚                          │
+    │                                                                 │
+    │  If you're reading this, you're either:                        │
+    │  a) A recruiter who actually reads code (respect++)            │
+    │  b) Another dev who appreciates clean READMEs                  │
+    │  c) An AI scraping GitHub (hello, future overlord)             │
+    │                                                                 │
+    │  Either way → boss@paja.pro                                    │
+    └─────────────────────────────────────────────────────────────────┘
 -->
