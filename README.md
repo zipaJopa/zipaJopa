@@ -89,38 +89,13 @@ drwxr-xr-x  infra/       # proxmox, vercel, cloudflare
 
 ---
 
-### 🔥 `$ cat ~/currently-learning.md`
-
-<div align="center">
-
-<picture><img src="https://img.shields.io/badge/🧠_pydantic--ai-mastering-A855F7?style=for-the-badge" alt="pydantic-ai"/></picture>
-<picture><img src="https://img.shields.io/badge/🔗_MCP-building-EC4899?style=for-the-badge" alt="MCP"/></picture>
-<picture><img src="https://img.shields.io/badge/🤖_LangGraph-exploring-FBBF24?style=for-the-badge" alt="LangGraph"/></picture>
-<picture><img src="https://img.shields.io/badge/⚡_Convex-integrating-00D4FF?style=for-the-badge" alt="Convex"/></picture>
-
-<br/><br/>
-
-```
-📚 Learning Queue (auto-updated by my AI)
-├── [████████░░] pydantic-ai — 80% (building production agents)
-├── [██████░░░░] MCP ecosystem — 60% (composable tools)
-├── [████░░░░░░] LangGraph — 40% (workflow orchestration)
-└── [██░░░░░░░░] Rust basics — 20% (when Python isn't fast enough)
-```
-
-</div>
-
----
-
 ### `$ cat ~/missions.md`
 
 ```markdown
 ## Currently Obsessing Over
 
 - [🔥] Life OS Agent Constellation — AI that manages my tasks, emails, and sanity
-- [🔥] Auto-AdOps Dashboard — real-time monitoring with anomaly detection  
-- [🔧] MCP Ecosystem — modular AI tools that compose like LEGO
-- [💸] Free-Tier Exploitation Research — because cloud bills are for mortals
+- [🔥] AutoAdOps Dashboard — real-time monitoring with anomaly detection
 ```
 
 ---
