@@ -19,10 +19,10 @@
 <br/><br/>
 
 <!-- Contact badges - intentionally clickable -->
-<a href="mailto:boss@paja.pro"><img src="https://img.shields.io/badge/boss@paja.pro-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:boss@pajin.site"><img src="https://img.shields.io/badge/boss@pajin.site-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://linkedin.com/in/bradic"><img src="https://img.shields.io/badge/bradic-EC4899?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://x.com/zipajopa"><img src="https://img.shields.io/badge/@zipajopa-A855F7?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://paja.pro"><img src="https://img.shields.io/badge/paja.pro-FBBF24?style=for-the-badge&logo=safari&logoColor=black" alt="Web"/></a>
+<a href="https://pajin.site"><img src="https://img.shields.io/badge/pajin.site-FBBF24?style=for-the-badge&logo=safari&logoColor=black" alt="Web"/></a>
 
 <br/>
 
@@ -39,10 +39,10 @@
                     ⣿⣿⣿⣿⣿⣿⣿      ──────────────────────────────────
                     ⣿⣿⣿⣿⣿⣿⣿      os       macOS Sequoia (M4 Air 16GB)
                     ⣿⣿⣿⣿⣿⣿⣿      role     Senior AdOps @ YourBow
-                    ⣿⣿⣿⣿⣿⣿⣿      title    Chief AI Orchestrator (self-appointed)
+                    ⣿⣿⣿⣿⣿⣿⣿      title    Chief AI Officer (self-appointed)
                     ⣿⣿⣿⣿⣿⣿⣿      shell    zsh + army of AI agents
-                    ⣿⣿⣿⣿⣿⣿⣿      location Belgrade → digital nomad 2025
-                                       uptime   since '91
+                    ⣿⣿⣿⣿⣿⣿⣿      location Belgrade → digital nomad 2026
+                                       uptime   since '94
                                        coffee   ████████████████ 100% (critical)
 ```
 
@@ -54,7 +54,7 @@
 class Pavle:
     def __init__(self):
         self.role = "Senior AdOps Manager by day"
-        self.obsession = "AI Agent Architect by night"
+        self.obsession = "AI System Architect by night"
         self.philosophy = "Good architecture beats big budgets"
         self.superpower = "Exploiting free tiers like they owe me money"
     
@@ -65,7 +65,7 @@ class Pavle:
             self.push_to_prod()  # on fridays, obviously
             
     def contact(self):
-        return "boss@paja.pro"  # yes, really
+        return "boss@pajin.site"  # yes, really
 ```
 
 ---
@@ -74,17 +74,17 @@ class Pavle:
 
 <div align="center">
 
-<picture><img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,react,ts,tailwind&theme=dark" alt="Main"/></picture>
+<picture><img src="https://skillicons.dev/icons?i=python,ts,tailwind&theme=dark" alt="Main"/></picture>
 <br/>
-<picture><img src="https://skillicons.dev/icons?i=supabase,postgres,redis,docker,vercel,cloudflare&theme=dark" alt="Infra"/></picture>
+<picture><img src="https://skillicons.dev/icons?i=docker,vercel,cloudflare&theme=dark" alt="Infra"/></picture>
 
 </div>
 
 ```bash
 drwxr-xr-x  ai/          # pydantic-ai, langgraph, mcp, gemini, openai, claude
-drwxr-xr-x  backend/     # fastapi, convex, postgresql, redis  
-drwxr-xr-x  frontend/    # next.js 15, react, typescript, tailwind, shadcn
-drwxr-xr-x  infra/       # docker, vercel, cloudflare, fly.io (free tier gang 💸)
+drwxr-xr-x  backend/     # fastapi, convex
+drwxr-xr-x  frontend/    # react, shadcn
+drwxr-xr-x  infra/       # proxmox, vercel, cloudflare
 ```
 
 ---
@@ -200,7 +200,7 @@ drwxr-xr-x  infra/       # docker, vercel, cloudflare, fly.io (free tier gang �
 <br/>
 
 <!-- Hire me - intentionally clickable -->
-<a href="mailto:boss@paja.pro">
+<a href="mailto:boss@pajin.site">
   <img src="https://img.shields.io/badge/hire_me-or_just_say_hi-A855F7?style=for-the-badge" alt="Hire Me"/>
 </a>
 
@@ -221,6 +221,6 @@ drwxr-xr-x  infra/       # docker, vercel, cloudflare, fly.io (free tier gang �
     │  b) Another dev who appreciates clean READMEs                  │
     │  c) An AI scraping GitHub (hello, future overlord)             │
     │                                                                 │
-    │  Either way → boss@paja.pro                                    │
+    │  Either way → boss@pajin.site                                    │
     └─────────────────────────────────────────────────────────────────┘
 -->
