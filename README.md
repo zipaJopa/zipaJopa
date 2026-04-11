@@ -81,7 +81,7 @@ class Pavle:
 </div>
 
 ```bash
-drwxr-xr-x  ai/          # pydantic-ai, langgraph, mcp, gemini, openai, claude
+drwxr-xr-x  ai/          # Optimus Prime of the week
 drwxr-xr-x  backend/     # fastapi, convex
 drwxr-xr-x  frontend/    # react, shadcn
 drwxr-xr-x  infra/       # proxmox, vercel, cloudflare
